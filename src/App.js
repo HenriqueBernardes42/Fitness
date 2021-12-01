@@ -16,10 +16,10 @@ function App() {
           rel="noopener noreferrer"
         >
           Aprendendo a aprender
+          olha o pull!
         </a>
       </header>
     </div>
   );
-}
 
 export default App;
